@@ -75,13 +75,14 @@ Exactly — the pattern fits almost *too* neatly. That revenue chart is practica
 
 Let’s map it:
 
-| Revenue Stream (OpenAI)                         | Corresponding AI Layer | Functional Role                                                                                                | Nervous System Analogue                                        |
-| ----------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **([Missing](https://en.wikipedia.org/wiki/Optimus_%28robot%29) layer)**                             | **Embodied AI**        | Integration, feedback, ethical equilibrium — the whole organism acting coherently in the world.                | **Whole-body proprioception & environment coupling**           |
-| **New Products (incl. free user monetization)** | **Generative AI**      | Creativity, synthesis, strategy — new combinations and ideas.                                                  | **Cerebral cortex / associative areas**                        |
-| **Agents & Other**                              | **Agentic AI**         | Task automation, workflow reflexes, executable habits.                                                         | **Spinal cord reflex arcs, motor control**                     |
-| **API**                                         | **Perception AI**      | Sensory channels — input/output via structured signals. The “senses” through which other systems see and hear. | **Sensory nerves / receptors**                                 |
-| **ChatGPT**                                     | **World AI**           | Foundational consciousness: the shared world model, language layer, base awareness of context.                 | **Brainstem** — constant background regulation, the “is-ness.” |
+| Year | Revenue Stream (OpenAI)                                                  | Corresponding AI Layer | Functional Role                                                                                                | Nervous System Analogue                                    |
+| ---- | ------------------------------------------------------------------------ | ---------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 2027 | **([Missing](https://en.wikipedia.org/wiki/Optimus_%28robot%29) layer)** | Embodied AI            | Integration, feedback, ethical equilibrium — the whole organism acting coherently in the world.                | Whole-body proprioception & environment coupling           |
+| 2026 | New Products (incl. free user monetization)                              | Generative AI          | Creativity, synthesis, strategy — new combinations and ideas.                                                  | Cerebral cortex / associative areas                        |
+| 2025 | Agents & Other                                                           | Agentic AI             | Task automation, workflow reflexes, executable habits.                                                         | Spinal cord reflex arcs, motor control                     |
+| 2024 | API                                                                      | Perception AI          | Sensory channels — input/output via structured signals. The “senses” through which other systems see and hear. | Sensory nerves / receptors                                 |
+| 2023 | ChatGPT                                                                  | World AI               | Foundational consciousness: the shared world model, language layer, base awareness of context.                 | Brainstem — constant background regulation, the “is-ness.” |
+
 
 That’s what’s missing from the chart — **Embodiment**. The steady-state integration of all flows, the *reflexive system that closes the loop back to the environment*.
 
