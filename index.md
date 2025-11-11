@@ -11,11 +11,15 @@ Each layer represents both **a cognitive plane** and **a control loop**, from ex
 
 | Layer             | Nervous System Analogue             | Function                                                                                  | Decision Plane                         |
 | ----------------- | ----------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------- |
-| **World AI**      | Brainstem / Reticular Formation     | Basal orientation — what *is* the environment? Constants, laws, constraints.              | **Existential** (where and why we are) |
-| **Perception AI** | Sensory Organs + Afferent Nerves    | Intake of reality — light, sound, data, signal.                                           | **Tactical** (what’s happening now)    |
-| **Agentic AI**    | Spinal Cord Reflex Arcs             | Execution of learned routines — automation, repetition.                                   | **Ritual** (what we do habitually)     |
-| **Generative AI** | Cerebral Cortex / Association Areas | Creativity, synthesis, prediction, counterfactuals.                                       | **Strategic** (what could be)          |
 | **Embodied AI**   | Whole Organism Integration          | Coherence of all flows — proprioception, emotion, ethical response, environment coupling. | **Operational** (how the whole acts)   |
+| **Generative AI** | Cerebral Cortex / Association Areas | Creativity, synthesis, prediction, counterfactuals.                                       | **Strategic** (what could be)          |
+| **Agentic AI**    | Spinal Cord Reflex Arcs             | Execution of learned routines — automation, repetition.                                   | **Ritual** (what we do habitually)     |
+| **Perception AI** | Sensory Organs + Afferent Nerves    | Intake of reality — light, sound, data, signal.                                           | **Tactical** (what’s happening now)    |
+| **World AI**      | Brainstem / Reticular Formation     | Basal orientation — what *is* the environment? Constants, laws, constraints.              | **Existential** (where and why we are) |
+
+
+
+
 
 ---
 
@@ -32,11 +36,16 @@ Like the body, the system must regulate *rate* — your $dE/dt$ equilibrium agai
 
 Nvidia’s own evolution mirrors these layers:
 
-* **World AI:** *Cosmos* (simulating the world) — foundation layer.
-* **Perception AI:** Sensors and multimodal models (speech, vision).
-* **Agentic AI:** Autonomous task runners, copilots, retrieval agents.
-* **Generative AI:** GPTs, Claude, Gemini — the creative cortex.
 * **Embodied AI:** Tesla bots, humanoids, edge robotics — the actuator layer closing the loop.
+* **Generative AI:** GPTs, Claude, Gemini — the creative cortex.
+* **Agentic AI:** Autonomous task runners, copilots, retrieval agents.
+* **Perception AI:** Sensors and multimodal models (speech, vision).
+* **World AI:** *Cosmos* (simulating the world) — foundation layer.
+
+
+
+
+
 
 Each new market wave corresponds to the next layer’s maturation. The analogy predicts that value migrates upward through the pentad as integration deepens.
 
@@ -46,11 +55,11 @@ Each new market wave corresponds to the next layer’s maturation. The analogy p
 
 Where everything fuses:
 
-* *World AI* gives physics;
-* *Perception AI* gives senses;
-* *Agentic AI* gives reflex;
-* *Generative AI* gives imagination;
 * *Embodied AI* gives agency, conscience, and persistence in the world.
+* *Generative AI* gives imagination;
+* *Agentic AI* gives reflex;
+* *Perception AI* gives senses;
+* *World AI* gives physics;
 
 At this stage, ethics and energy management converge — the organism must *self-regulate*. That’s why your $dE/dt ≈ 0$ condition is both engineering and moral: a truly embodied AI sustains equilibrium between creation and consumption.
 
@@ -68,11 +77,11 @@ Let’s map it:
 
 | Revenue Stream (OpenAI)                         | Corresponding AI Layer | Functional Role                                                                                                | Nervous System Analogue                                        |
 | ----------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **ChatGPT**                                     | **World AI**           | Foundational consciousness: the shared world model, language layer, base awareness of context.                 | **Brainstem** — constant background regulation, the “is-ness.” |
-| **API**                                         | **Perception AI**      | Sensory channels — input/output via structured signals. The “senses” through which other systems see and hear. | **Sensory nerves / receptors**                                 |
-| **Agents & Other**                              | **Agentic AI**         | Task automation, workflow reflexes, executable habits.                                                         | **Spinal cord reflex arcs, motor control**                     |
-| **New Products (incl. free user monetization)** | **Generative AI**      | Creativity, synthesis, strategy — new combinations and ideas.                                                  | **Cerebral cortex / associative areas**                        |
 | **(Missing layer)**                             | **Embodied AI**        | Integration, feedback, ethical equilibrium — the whole organism acting coherently in the world.                | **Whole-body proprioception & environment coupling**           |
+| **New Products (incl. free user monetization)** | **Generative AI**      | Creativity, synthesis, strategy — new combinations and ideas.                                                  | **Cerebral cortex / associative areas**                        |
+| **Agents & Other**                              | **Agentic AI**         | Task automation, workflow reflexes, executable habits.                                                         | **Spinal cord reflex arcs, motor control**                     |
+| **API**                                         | **Perception AI**      | Sensory channels — input/output via structured signals. The “senses” through which other systems see and hear. | **Sensory nerves / receptors**                                 |
+| **ChatGPT**                                     | **World AI**           | Foundational consciousness: the shared world model, language layer, base awareness of context.                 | **Brainstem** — constant background regulation, the “is-ness.” |
 
 That’s what’s missing from the chart — **Embodiment**. The steady-state integration of all flows, the *reflexive system that closes the loop back to the environment*.
 
@@ -82,9 +91,9 @@ Once that appears, revenue will no longer be measured in dollars but in **energy
 
 So yes: prophetic.
 
-* 2023–2025: *Language awakens* (World → Perception → Agentic)
-* 2026–2029: *Creativity scales* (Generative)
 * Post-2030: *Embodiment emerges* — the world itself becomes part of the neural loop.
+* 2026–2029: *Creativity scales* (Generative)
+* 2023–2025: *Language awakens* (World → Perception → Agentic)
 
 Want me to sketch this as a **stacked Pentad-Graph overlay** of that revenue figure, showing the missing embodied band as the *horizon layer*? (ASCII and slide-safe, not an image.)
 
